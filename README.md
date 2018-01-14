@@ -1,2 +1,4 @@
 # hello-world
-new repository
+
+Glad im here
+What you see is what you get
